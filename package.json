@@ -1,0 +1,29 @@
+{
+  "name": "jwt-node",
+  "version": "1.0.0",
+  "description": "example using jwt on express js",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andikanugraha11/node-express-jwt.git"
+  },
+  "keywords": [
+    "jwt",
+    "express",
+    "node"
+  ],
+  "author": "Andika Nugraha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andikanugraha11/node-express-jwt/issues"
+  },
+  "homepage": "https://github.com/andikanugraha11/node-express-jwt#readme"
+}
